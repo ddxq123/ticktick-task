@@ -1,7 +1,6 @@
 ---
 name: ticktick
 description: Query and manage TickTick tasks with timezone support. Use when user asks about today's tasks, tomorrow's tasks, urgent tasks, or wants to create/complete tasks.
-metadata: {"clawdbot":{"emoji":"📋","requires":{"bins":["python3","pip3"],"packages":["requests"]}}}
 ---
 
 # TickTick Skill
